@@ -1,0 +1,242 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/FinishLevelWindow" itemID="52d7a64a-0000043a" linkageExportForAS="true" linkageClassName="FinishLevelWindow" lastModified="1432663180" lastUniqueIdentifier="37">
+  <timeline>
+    <DOMTimeline name="FinishLevelWindow">
+      <layers>
+        <DOMLayer name="all" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="graphics/Button/players/Layer_165 copy">
+                  <matrix>
+                    <Matrix tx="178" ty="-190.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="graphics/Button/players/Vector Smart Object copy 3">
+                  <matrix>
+                    <Matrix tx="148" ty="-199.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="graphics/Button/players/shadow-1.png">
+                  <matrix>
+                    <Matrix d="1.17723083496094" tx="148" ty="-204.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="118.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="tfTopFriends" fontRenderingMode="standard" width="121" height="44.3">
+                  <matrix>
+                    <Matrix tx="198" ty="-197.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Top Friends</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="0" size="14.7" bitmapSize="294" face="Big_Bottom_Cartoon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="1" blurY="1" color="#8B4718" distance="1"/>
+                    <DropShadowFilter angle="269.999993169811" blurX="1" blurY="1" color="#8B4718" distance="1"/>
+                    <DropShadowFilter angle="0" blurX="1" blurY="1" color="#864618" distance="1"/>
+                    <DropShadowFilter angle="180" blurX="1" blurY="1" color="#884616" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="graphics/Button/Pictures_menu/Layer">
+                  <matrix>
+                    <Matrix tx="-344.5" ty="-312.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="graphics/Button/Pictures_menu/main_form">
+                  <matrix>
+                    <Matrix tx="-353.5" ty="-321.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="tfLevel" fontRenderingMode="standard" width="494.95" height="126.55" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-334.95" ty="-348"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Level 15</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="42" bitmapSize="840" face="Big_Bottom_Cartoon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="2" blurY="2" color="#993300" distance="2"/>
+                    <DropShadowFilter angle="269.999993169811" blurX="2" blurY="2" color="#FFCC33" distance="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="graphics/Button/Vector_Smart_Object">
+                  <matrix>
+                    <Matrix tx="-241.45" ty="216.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/BtnShare" name="btnShare" centerPoint3DX="-88.2" centerPoint3DY="250.75">
+                  <matrix>
+                    <Matrix tx="-236.7" ty="222.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="148.5" y="28"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tfShare" fontRenderingMode="standard" width="129" height="66.25" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-151.55" ty="204.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Share</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="22" bitmapSize="440" face="Big_Bottom_Cartoon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="2" blurY="2" color="#003300" distance="2" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/BtnClose" name="btnClose" centerPoint3DX="142" centerPoint3DY="-249.7">
+                  <matrix>
+                    <Matrix tx="125" ty="-266.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17" y="17"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tfShareTheGold" fontRenderingMode="standard" width="372.55" height="54.2" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-273.35" ty="140.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Share the gold with yuor friends</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="15.5" bitmapSize="310" face="Big_Bottom_Cartoon" fillColor="#BD4C0A"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#401500" inner="true" quality="3"/>
+                    <DropShadowFilter angle="90" blurX="2" blurY="2" color="#FFFFFF" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="graphics/Button/Pictures_menu/Vector_Smart_Object">
+                  <matrix>
+                    <Matrix tx="-196.4" ty="-204.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="graphics/Button/Pictures_menu/Rounded_Rectangle">
+                  <matrix>
+                    <Matrix tx="-183.4" ty="-194.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="tfGold" fontRenderingMode="standard" width="108.9" height="69.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-90.9" ty="92"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>789</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="23" bitmapSize="460" face="Big_Bottom_Cartoon" fillColor="#BD4C0A"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#401500" inner="true" quality="3"/>
+                    <DropShadowFilter angle="90" blurX="2" blurY="2" color="#FFFFFF" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="tfFantasticScore" fontRenderingMode="standard" width="376.05" height="46.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-273.3" ty="69.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Great score! You got 3 stars!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="15.5" bitmapSize="310" face="Big_Bottom_Cartoon" fillColor="#BD4C0A"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#401500" inner="true" quality="3"/>
+                    <DropShadowFilter angle="90" blurX="2" blurY="2" color="#FFFFFF" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/StarsProgres" name="starsProgressBar" centerPoint3DX="-88.4" centerPoint3DY="-14.85">
+                  <matrix>
+                    <Matrix tx="-228.4" ty="-73.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140" y="59"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tfYourScore" fontRenderingMode="standard" width="235.95" height="46.05">
+                  <matrix>
+                    <Matrix tx="-313" ty="34.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>your score: 234567</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" size="15.3" bitmapSize="306" face="Big_Bottom_Cartoon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="2" blurY="2" color="#8B4718" distance="1"/>
+                    <DropShadowFilter angle="269.999993169811" blurX="2" blurY="2" color="#8B4718" distance="1"/>
+                    <DropShadowFilter angle="0" blurX="2" blurY="2" color="#864618" distance="1"/>
+                    <DropShadowFilter angle="180" blurX="2" blurY="2" color="#884616" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="tfBestEver" fontRenderingMode="standard" width="206.05" height="46.05">
+                  <matrix>
+                    <Matrix tx="-53.05" ty="34.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>best ever: 123456</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" size="15.3" bitmapSize="306" face="Big_Bottom_Cartoon" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="2" blurY="2" color="#8B4718" distance="1"/>
+                    <DropShadowFilter angle="269.999993169811" blurX="2" blurY="2" color="#8B4718" distance="1"/>
+                    <DropShadowFilter angle="0" blurX="2" blurY="2" color="#864618" distance="1"/>
+                    <DropShadowFilter angle="180" blurX="2" blurY="2" color="#884616" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="graphics/stud">
+                  <matrix>
+                    <Matrix tx="-129.45" ty="121.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/FriendsPanel" name="friendsPanel" centerPoint3DX="270.25" centerPoint3DY="19.9">
+                  <matrix>
+                    <Matrix tx="184" ty="-151.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.25" y="171.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="graphics/fish/fish_1.jpg">
+                  <matrix>
+                    <Matrix a="0.364654541015625" d="0.247055053710938" tx="-187.4" ty="-198.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/pictures/GiveSurpise" itemID="532956e8-00000705" lastModified="1432663408">
+  <timeline>
+    <DOMTimeline name="GiveSurpise">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="graphics/fish/fish_2.jpg">
+                  <matrix>
+                    <Matrix a="0.045196533203125" d="0.0323486328125"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

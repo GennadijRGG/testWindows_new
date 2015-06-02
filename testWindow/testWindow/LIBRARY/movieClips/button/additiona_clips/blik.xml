@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/button/additiona_clips/blik" itemID="52f90e49-00000297" lastModified="1392127458">
+  <timeline>
+    <DOMTimeline name="blik">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!29 -21|11.5 5!11.5 5[#C.52 #5.84 12.5 6.5!12.5 6.5[#C.A4 #7.8D 12 8.5!12 8.5|11.5 9.5!11.5 9.5|27 36!27 36|1 26!1 26|0.5 26.5!0.5 26.5[#0.63 #1B.1E 0 27.5!0 27.5|-0.5 28!-0.5 28[#FFFFFF.03 #1C.54 -1.5 28.5!-1.5 28.5|-2.5 28.5!-2.5 28.5
+|-1 29!-1 29|-9 40.5!-9 40.5[#FFFFF6.57 #29.37 -14.5 53.5!-14.5 53.5[-19.3125 #41.C5 -16 53.5!-16 53.5[-12.671875 #29.34 -13 40.5!-13 40.5[#FFFFF2.86 #27.D2 -13.5 39!-13.5 39|-12.5 26!-12.5 26|-35 20.5!-35 20.5[#FFFFE0.FA #15.B -39.5
+ 24!-39.5 24[#FFFFCE.39 #1A.DC -43.5 23.5!-43.5 23.5[-40.21875 #15.C4 -36.5 20!-36.5 20[-33.203125 #12.85 -29.5 17!-29.5 17|-10.5 3.5!-10.5 3.5|-8.5 -24!-8.5 -24[-8.5 #FFFFE7.25 -8 -25.5!-8 -25.5[#FFFFF8.9D -26.234375 -6.5 -26.5!-6.5
+ -26.5[#FFFFFA.49 #FFFFE5.7B -5 -26!-5 -26[-4.3125 #FFFFE6.4E -7 -34!-7 -34|7 -5.5!7 -5.5|29 -21"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

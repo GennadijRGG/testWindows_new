@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/pictures/Scroller" itemID="52ea4280-0000023c" lastModified="1432662561" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Scroller">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/Bottom" name="scroller" centerPoint3DX="12" centerPoint3DY="34">
+                  <matrix>
+                    <Matrix ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/Line" name="scrollLine" selected="true" centerPoint3DX="11.5" centerPoint3DY="107">
+                  <matrix>
+                    <Matrix tx="8" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="102"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="graphics/Button/line/line1">
+                  <matrix>
+                    <Matrix tx="4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

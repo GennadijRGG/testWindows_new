@@ -1,0 +1,216 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/pictures/star_clip/star_image/2zv" itemID="52f8d2c2-000006d0" lastModified="1432663313" lastUniqueIdentifier="77">
+  <timeline>
+    <DOMTimeline name="2zv">
+      <layers>
+        <DOMLayer name="as" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/svech" blendMode="add" centerPoint3DX="61" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix a="1.22012329101563" d="1.22012329101563" tx="-13.45" ty="-47.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF" quality="3" strength="1.24"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/svech" blendMode="add" centerPoint3DX="62.1" centerPoint3DY="23.7">
+                  <matrix>
+                    <Matrix a="1.27934265136719" d="1.27934265136719" tx="-15.95" ty="-51.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.05" y="59.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF" quality="3" strength="1.24"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star 1" centerPoint3DX="61" centerPoint3DY="59">
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star 1" centerPoint3DX="61" centerPoint3DY="59">
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/gff" centerPoint3DX="85.3" centerPoint3DY="61.65">
+                  <matrix>
+                    <Matrix a="-0.48077392578125" b="-0.59765625" c="-0.59765625" d="0.48077392578125" tx="122.7" ty="76.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.75" y="23.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/gff" centerPoint3DX="42.5" centerPoint3DY="58.15">
+                  <matrix>
+                    <Matrix a="0.5355224609375" b="-0.626113891601563" c="0.626113891601563" d="0.5355224609375" tx="2.3" ty="72.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.75" y="23.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/gff" centerPoint3DX="62.65" centerPoint3DY="23.95">
+                  <matrix>
+                    <Matrix tx="16.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.75" y="23.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star 1" centerPoint3DX="61" centerPoint3DY="59">
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star 1" blendMode="add" centerPoint3DX="61" centerPoint3DY="23.8">
+                  <matrix>
+                    <Matrix a="1.21293640136719" d="1.21293640136719" tx="-12.95" ty="-47.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star 1" blendMode="add" centerPoint3DX="61" centerPoint3DY="20.6">
+                  <matrix>
+                    <Matrix a="1.294189453125" d="1.294189453125" tx="-17.9" ty="-55.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.05" y="58.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star 1" blendMode="add" centerPoint3DX="61" centerPoint3DY="23.8">
+                  <matrix>
+                    <Matrix a="1.21293640136719" d="1.21293640136719" tx="-12.95" ty="-47.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF" quality="3" strength="1.24"/>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star 1" centerPoint3DX="61" centerPoint3DY="59">
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                    <GlowFilter blurX="0" blurY="0" color="#FFFFFF" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

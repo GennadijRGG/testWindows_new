@@ -1,0 +1,123 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/button/additiona_clips/zzzv" itemID="52f90e49-00000294" lastModified="1392133090" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="zzzv">
+      <layers>
+        <DOMLayer name="as" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Guide: Layer 2" color="#FF800A" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-405 -33[#FFFE8E.E5 -141.9375 -267.5 -216!-267.5 -216[-165.5625 #FFFEDD.CA -76 -267.5!-76 -267.5[#D.7 #FFFF0B.3C 54.5 -109.5!54.5 -109.5[#5F.9A #19.C6 117 145"/>
+                    <Edge cubics="!117 145(117,145;117,121 84,9 42,-88q117 145Q117 125q95 56Q72 -20q42 -88);"/>
+                    <Edge cubics="!42 -88(;21,-134 -9,-185 -40,-215q42 -88Q3 -173q-40 -215);"/>
+                    <Edge cubics="!-40 -215(;-73,-247 -82,-240 -151,-240q-40 -215Q-62 -236q-82 -239Q-85 -240q-151 -240);"/>
+                    <Edge cubics="!-151 -240(;-301,-240 -343,-198 -405,-33q-151 -240Q-261 -240q-311 -198Q-358 -159q-405 -33);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" parentLayerIndex="1">
+          <frames>
+            <DOMFrame index="0" duration="6" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="7" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/blik" blendMode="add" centerPoint3DX="3.55" centerPoint3DY="6.35">
+                  <matrix>
+                    <Matrix a="-1.83775329589844" b="0.323455810546875" c="-0.55767822265625" d="-1.56268310546875" tx="6.1" ty="7.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.53125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="10" tweenType="motion" motionTweenSnap="true" hasCustomEase="true" keyMode="22017">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.1462" y="0.1462"/>
+                  <Point x="0.3117" y="0.219"/>
+                  <Point x="0.4695" y="0.3253"/>
+                  <Point x="0.7134" y="0.4897"/>
+                  <Point x="0.8128" y="0.8128"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/blik" blendMode="add" centerPoint3DX="-1.1" centerPoint3DY="-12.55">
+                  <matrix>
+                    <Matrix a="2.73406982421875" b="-0.472900390625" c="0.825439453125" d="2.32379150390625" tx="-3.4" ty="-14.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.53125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/blik" blendMode="add" centerPoint3DX="-22.4" centerPoint3DY="-2.35">
+                  <matrix>
+                    <Matrix a="-1.07867431640625" b="0.189849853515625" c="-0.32733154296875" d="-0.917236328125" tx="-20" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

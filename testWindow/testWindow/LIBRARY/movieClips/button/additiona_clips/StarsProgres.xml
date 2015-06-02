@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/button/additiona_clips/StarsProgres" itemID="52d7a479-0000041e" lastModified="1399542965" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="StarsProgres" currentFrame="1">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star_image/1zv" name="star_1" centerPoint3DX="49.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star_image/3zv" name="star_3" centerPoint3DX="202.5" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="153"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star_image/1zv" name="star_1" centerPoint3DX="79" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star_image/3zv" name="star_3" selected="true" centerPoint3DX="231.5" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="182"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star_image/1zv" name="star_1" centerPoint3DX="50" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName=" movieClips/pictures/star_clip/star_image/2zv" name="star_2" centerPoint3DX="141" centerPoint3DY="58">
+                  <matrix>
+                    <Matrix tx="80" ty="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

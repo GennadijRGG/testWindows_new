@@ -1,0 +1,126 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="701.65" height="666.7" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="67.1763991707736" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name=" movieClips" itemID="5564b01b-0000021e"/>
+          <DOMFolderItem name=" movieClips/button" itemID="556c9cc0-0000022a"/>
+          <DOMFolderItem name=" movieClips/button/additiona_clips" itemID="556c9fd1-00000242"/>
+          <DOMFolderItem name=" movieClips/pictures" itemID="556c9e6a-00000231" isExpanded="true"/>
+          <DOMFolderItem name=" movieClips/pictures/star_clip" itemID="556c9ff7-00000249"/>
+          <DOMFolderItem name=" movieClips/pictures/star_clip/star_image" itemID="556c9ffe-0000024a"/>
+          <DOMFolderItem name="graphics" itemID="5564b090-0000022b"/>
+          <DOMFolderItem name="graphics/Button" itemID="556ca07c-00000252"/>
+          <DOMFolderItem name="graphics/Button/button_send_to_all" itemID="556ca2c6-00000299"/>
+          <DOMFolderItem name="graphics/Button/close_button" itemID="52c14f37-00000316"/>
+          <DOMFolderItem name="graphics/Button/line" itemID="556ca26a-00000288"/>
+          <DOMFolderItem name="graphics/Button/Pictures_menu" itemID="556ca0da-0000025c"/>
+          <DOMFolderItem name="graphics/Button/players" itemID="52cd46a1-0000021e"/>
+          <DOMFolderItem name="graphics/fish" itemID="556ca293-00000291"/>
+          <DOMFolderItem name="graphics/star_Pictures" itemID="556ca242-00000282"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="FontFT" itemID="52c14b52-00000262" font="Big_Bottom_Cartoon" size="0" id="1" sourceLastImported="1388399442" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="graphics/Button/players/avatar.png" itemID="52ce6667-00000415" sourceExternalFilepath="./LIBRARY/graphics/Button/players/avatar.png" sourceLastImported="1393318129" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/players/avatar.png" bitmapDataHRef="M 36 1389258678.dat" frameRight="920" frameBottom="920"/>
+          <DOMBitmapItem name="graphics/bear" itemID="52d7933a-000003b6" sourceExternalFilepath="./LIBRARY/graphics/bear" sourceLastImported="1389859642" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/bear" bitmapDataHRef="M 60 1389862405.dat" frameRight="3880" frameBottom="3360"/>
+          <DOMBitmapItem name="graphics/Button/close_button/close.png" itemID="52c14f51-0000031c" sourceExternalFilepath="./LIBRARY/graphics/Button/close_button/close.png" sourceLastImported="1388400465" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/close_button/close.png" bitmapDataHRef="M 11 1388400439.dat" frameRight="1240" frameBottom="1240"/>
+          <DOMBitmapItem name="graphics/Button/close_button/close_active" itemID="52c1442d-00000246" sourceExternalFilepath="./LIBRARY/graphics/Button/close_button/close_active" sourceLastImported="1388397613" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/close_button/close_active" bitmapDataHRef="M 12 1388400521.dat" frameRight="680" frameBottom="680"/>
+          <DOMBitmapItem name="graphics/Button/close_button/close_normal" itemID="52c14383-0000021f" sourceExternalFilepath="./LIBRARY/graphics/Button/close_button/close_normal" sourceLastImported="1388397443" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/close_button/close_normal" bitmapDataHRef="M 6 1388397443.dat" frameRight="680" frameBottom="680"/>
+          <DOMBitmapItem name="graphics/Button/close_button/close_selected" itemID="52c1442d-00000249" sourceExternalFilepath="./LIBRARY/graphics/Button/close_button/close_selected" sourceLastImported="1388397613" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/close_button/close_selected" bitmapDataHRef="M 13 1388400557.dat" frameRight="680" frameBottom="680"/>
+          <DOMBitmapItem name="graphics/fish/fish_1.jpg" itemID="556ca175-0000026d" sourceExternalFilepath="./LIBRARY/graphics/fish/fish_1.jpg" sourceLastImported="1433182581" externalFileCRC32="3913601102" externalFileSize="272592" quality="50" href="graphics/fish/fish_1.jpg" bitmapDataHRef="M 33 1432662996.dat" frameRight="10640" frameBottom="13600" isJPEG="true"/>
+          <DOMBitmapItem name="graphics/fish/fish_2.jpg" itemID="556ca180-0000026e" sourceExternalFilepath="./LIBRARY/graphics/fish/fish_2.jpg" sourceLastImported="1433182592" externalFileCRC32="3267410002" externalFileSize="234518" quality="50" href="graphics/fish/fish_2.jpg" bitmapDataHRef="M 34 1432662996.dat" frameRight="10620" frameBottom="13600" isJPEG="true"/>
+          <DOMBitmapItem name="graphics/fish/fish_3.jpg" itemID="556ca187-0000026f" sourceExternalFilepath="./LIBRARY/graphics/fish/fish_3.jpg" sourceLastImported="1433182599" externalFileCRC32="959137769" externalFileSize="274210" quality="50" href="graphics/fish/fish_3.jpg" bitmapDataHRef="M 35 1432662996.dat" frameRight="10640" frameBottom="13600" isJPEG="true"/>
+          <DOMBitmapItem name="graphics/fish/fish_4.jpg" itemID="556ca18d-00000270" sourceExternalFilepath="./LIBRARY/graphics/fish/fish_4.jpg" sourceLastImported="1433182605" externalFileCRC32="630246510" externalFileSize="233638" originalCompressionType="lossless" quality="50" href="graphics/fish/fish_4.jpg" bitmapDataHRef="M 36 1432662996.dat" frameRight="10620" frameBottom="13600" isJPEG="true"/>
+          <DOMBitmapItem name="graphics/fish/fish_5.jpg" itemID="556ca192-00000271" sourceExternalFilepath="./LIBRARY/graphics/fish/fish_5.jpg" sourceLastImported="1433182610" externalFileCRC32="3107416052" externalFileSize="184402" originalCompressionType="lossless" quality="50" href="graphics/fish/fish_5.jpg" bitmapDataHRef="M 32 1432662996.dat" frameRight="10640" frameBottom="13600" isJPEG="true"/>
+          <DOMBitmapItem name="graphics/gift.png" itemID="556ca045-00000251" sourceExternalFilepath="./LIBRARY/graphics/gift.png" sourceLastImported="1433182277" externalFileCRC32="904851346" externalFileSize="4285" originalCompressionType="lossless" quality="50" href="graphics/gift.png" bitmapDataHRef="M 24 1395222143.dat" frameRight="440" frameBottom="480"/>
+          <DOMBitmapItem name="graphics/Button/players/heart" itemID="52cd4675-000001fa" sourceExternalFilepath="./LIBRARY/graphics/Button/players/heart" sourceLastImported="1389184629" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/players/heart" bitmapDataHRef="M 23 1389257426.dat" frameRight="560" frameBottom="480"/>
+          <DOMBitmapItem name="graphics/Button/Pictures_menu/Layer" itemID="556ca368-000002a7" sourceExternalFilepath="./LIBRARY/graphics/Button/Pictures_menu/Layer" sourceLastImported="1433183080" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/Pictures_menu/Layer" bitmapDataHRef="M 55 1389862123.dat" frameRight="10160" frameBottom="12320"/>
+          <DOMBitmapItem name="graphics/Button/players/Layer_165 copy" itemID="556ca278-0000028a" sourceExternalFilepath="./LIBRARY/graphics/Button/players/Layer_165 copy" sourceLastImported="1433182840" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/players/Layer_165 copy" bitmapDataHRef="M 51 1389860233.dat" frameRight="3220" frameBottom="4760"/>
+          <DOMBitmapItem name="graphics/Button/button_send_to_all/Layer_red" itemID="556ca2e9-0000029d" sourceExternalFilepath="./LIBRARY/graphics/Button/button_send_to_all/Layer_red" sourceLastImported="1433182953" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/button_send_to_all/Layer_red" bitmapDataHRef="M 30 1396713033.dat" frameRight="2760" frameBottom="500"/>
+          <DOMBitmapItem name="graphics/Button/button_send_to_all/Layer_sand" itemID="556ca31f-000002a0" sourceExternalFilepath="./LIBRARY/graphics/Button/button_send_to_all/Layer_sand" sourceLastImported="1433183007" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/button_send_to_all/Layer_sand" bitmapDataHRef="M 28 1396713033.dat" frameRight="2760" frameBottom="500"/>
+          <DOMBitmapItem name="graphics/Button/button_send_to_all/Layer_yellow" itemID="556ca322-000002a1" sourceExternalFilepath="./LIBRARY/graphics/Button/button_send_to_all/Layer_yellow" sourceLastImported="1433183010" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/button_send_to_all/Layer_yellow" bitmapDataHRef="M 29 1396713033.dat" frameRight="2760" frameBottom="500"/>
+          <DOMBitmapItem name="graphics/Button/line/line1" itemID="556ca260-00000286" sourceExternalFilepath="./LIBRARY/graphics/Button/line/line1" sourceLastImported="1433182816" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/line/line1" bitmapDataHRef="M 27 1396713033.dat" frameRight="300" frameBottom="6120"/>
+          <DOMBitmapItem name="graphics/Button/line/line2" itemID="556ca265-00000287" sourceExternalFilepath="./LIBRARY/graphics/Button/line/line2" sourceLastImported="1433182821" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/line/line2" bitmapDataHRef="M 26 1396713033.dat" frameRight="140" frameBottom="5920"/>
+          <DOMBitmapItem name="graphics/Button/Pictures_menu/main_form" itemID="556ca354-000002a6" sourceExternalFilepath="./LIBRARY/graphics/Button/Pictures_menu/main_form" sourceLastImported="1433183060" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/Pictures_menu/main_form" bitmapDataHRef="M 56 1389862220.dat" frameRight="10660" frameBottom="12680"/>
+          <DOMBitmapItem name="graphics/Button/play_active" itemID="556ca3a8-000002ac" sourceExternalFilepath="./LIBRARY/graphics/Button/play_active" sourceLastImported="1433183138" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/play_active" bitmapDataHRef="M 11 1388397712.dat" frameRight="5940" frameBottom="1120"/>
+          <DOMBitmapItem name="graphics/Button/play_normal" itemID="52ce7910-000005a6" sourceExternalFilepath="./LIBRARY/graphics/Button/play_normal" sourceLastImported="1389263120" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/play_normal" bitmapDataHRef="M 9 1388397635.dat" frameRight="5940" frameBottom="1120"/>
+          <DOMBitmapItem name="graphics/Button/play_selected" itemID="52ce791d-000005a9" sourceExternalFilepath="./LIBRARY/graphics/Button/play_selected" sourceLastImported="1389263133" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/play_selected" bitmapDataHRef="M 12 1388397813.dat" frameRight="5940" frameBottom="1100"/>
+          <DOMBitmapItem name="graphics/Button/Pictures_menu/Rounded_Rectangle" itemID="556ca37c-000002a8" sourceExternalFilepath="./LIBRARY/graphics/Button/Pictures_menu/Rounded_Rectangle" sourceLastImported="1433183100" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/Pictures_menu/Rounded_Rectangle" bitmapDataHRef="M 58 1389862405.dat" frameRight="3800" frameBottom="3220"/>
+          <DOMBitmapItem name="graphics/Button/players/shadow-1.png" itemID="52d79495-000003d3" sourceExternalFilepath="./LIBRARY/graphics/Button/players/shadow-1.png" sourceLastImported="1389859947" externalFileCRC32="3617707067" externalFileSize="6653" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/players/shadow-1.png" bitmapDataHRef="M 53 1389860233.dat" frameRight="1080" frameBottom="4740"/>
+          <DOMBitmapItem name="graphics/star_Pictures/star_1" itemID="556ca1fb-0000027f" sourceExternalFilepath="./LIBRARY/graphics/star_Pictures/star_1.psd Assets/Assets/star 1" sourceLastImported="1433182715" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/star_Pictures/star_1" bitmapDataHRef="M 30 1392120753.dat" frameRight="2440" frameBottom="2360"/>
+          <DOMBitmapItem name="graphics/star_Pictures/star_2" itemID="556ca200-00000280" sourceExternalFilepath="./LIBRARY/graphics/star_Pictures/star_2.psd Assets/Assets/star 2" sourceLastImported="1433182720" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/star_Pictures/star_2" bitmapDataHRef="M 29 1392120725.dat" frameRight="1960" frameBottom="2000"/>
+          <DOMBitmapItem name="graphics/star_Pictures/star_3" itemID="556ca205-00000281" sourceExternalFilepath="./LIBRARY/graphics/star_Pictures/star_3.psd Assets/Assets/star 3" sourceLastImported="1433182725" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/star_Pictures/star_3" bitmapDataHRef="M 28 1392120725.dat" frameRight="1980" frameBottom="2000"/>
+          <DOMBitmapItem name="graphics/stud" itemID="556ca47f-000002b9" sourceExternalFilepath="./LIBRARY/graphics/stud.psd Активы/Layer 162 copy 3" sourceLastImported="1433183359" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/stud" bitmapDataHRef="M 23 1393234283.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="graphics/Button/stud" itemID="556ca3fa-000002b0" sourceExternalFilepath="./LIBRARY/graphics/Button/stud" sourceLastImported="1433183226" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/stud" bitmapDataHRef="M 25 1396713033.dat" frameRight="480" frameBottom="480"/>
+          <DOMBitmapItem name="graphics/Button/tick" itemID="52f0bac4-0000048d" sourceExternalFilepath="./LIBRARY/graphics/Button/tick" sourceLastImported="1391508164" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/tick" bitmapDataHRef="M 32 1396882124.dat" frameRight="980" frameBottom="860"/>
+          <DOMBitmapItem name="graphics/Button/players/Vector Smart Object copy 3" itemID="52d79339-00000385" sourceExternalFilepath="./LIBRARY/graphics/Button/players/Vector Smart Object copy 3" sourceLastImported="1389859641" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/players/Vector Smart Object copy 3" bitmapDataHRef="M 52 1389860233.dat" frameRight="4000" frameBottom="5060"/>
+          <DOMBitmapItem name="graphics/Button/Pictures_menu/Vector_Smart_Object" itemID="556ca38c-000002a9" sourceExternalFilepath="./LIBRARY/graphics/Button/Pictures_menu/Vector_Smart_Object" sourceLastImported="1433183116" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/Button/Pictures_menu/Vector_Smart_Object" bitmapDataHRef="M 57 1389862405.dat" frameRight="4280" frameBottom="3600"/>
+          <DOMBitmapItem name="graphics/Button/button_send_to_all/Vector_Smart_Object" itemID="556ca32e-000002a2" sourceExternalFilepath="./LIBRARY/graphics/Button/button_send_to_all/Vector_Smart_Object" sourceLastImported="1433183022" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/button_send_to_all/Vector_Smart_Object" bitmapDataHRef="M 31 1396713033.dat" frameRight="2820" frameBottom="660"/>
+          <DOMBitmapItem name="graphics/Button/Vector_Smart_Object" itemID="556ca12b-00000263" sourceExternalFilepath="./LIBRARY/graphics/Button/Vector_Smart_Object" sourceLastImported="1433182507" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/Button/Vector_Smart_Object" bitmapDataHRef="M 10 1388397673.dat" frameRight="6040" frameBottom="1360"/>
+     </media>
+     <symbols>
+          <Include href=" movieClips/button/additiona_clips/blik.xml" loadImmediate="false" itemID="52f90e49-00000297" lastModified="1392127458"/>
+          <Include href=" movieClips/button/additiona_clips/dfdf.xml" loadImmediate="false" itemID="52f90dcd-00000257" lastModified="1432662499"/>
+          <Include href=" movieClips/button/additiona_clips/FriendsPanel.xml" loadImmediate="false" itemID="532feda3-00000525" lastModified="1433183426"/>
+          <Include href=" movieClips/button/additiona_clips/gff.xml" loadImmediate="false" itemID="52f90f0a-000002b8" lastModified="1392127446"/>
+          <Include href=" movieClips/button/additiona_clips/ScrollListContent.xml" loadImmediate="false" itemID="5315ec90-00000398" lastModified="1396702055"/>
+          <Include href=" movieClips/button/additiona_clips/StarsProgres.xml" loadImmediate="false" itemID="52d7a479-0000041e" lastModified="1399542965"/>
+          <Include href=" movieClips/button/additiona_clips/tgrt.xml" loadImmediate="false" itemID="52f90e2d-00000267" lastModified="1392133095"/>
+          <Include href=" movieClips/button/additiona_clips/zzzv.xml" loadImmediate="false" itemID="52f90e49-00000294" lastModified="1392133090"/>
+          <Include href=" movieClips/button/AvatarImage.xml" loadImmediate="false" itemID="530c5695-00000283" lastModified="1393318015"/>
+          <Include href=" movieClips/button/Bottom.xml" loadImmediate="false" itemID="52ea4291-00000246" lastModified="1391084177"/>
+          <Include href=" movieClips/button/BtnClose.xml" loadImmediate="false" itemID="52d7a5dd-00000439" lastModified="1389864413"/>
+          <Include href=" movieClips/button/BtnShare.xml" loadImmediate="false" itemID="52d7a5d6-00000438" lastModified="1389864406"/>
+          <Include href=" movieClips/button/Button.xml" loadImmediate="false" itemID="52cd5268-00000500" lastModified="1432662449"/>
+          <Include href=" movieClips/FinishLevelWindow.xml" itemID="52d7a64a-0000043a" lastModified="1432663180"/>
+          <Include href=" movieClips/pictures/AvatarHeart.xml" loadImmediate="false" itemID="530c5968-0000028c" lastModified="1432663443"/>
+          <Include href=" movieClips/pictures/GiveSurpise.xml" loadImmediate="false" itemID="532956e8-00000705" lastModified="1432663408"/>
+          <Include href=" movieClips/pictures/Line.xml" loadImmediate="false" itemID="52ea429b-0000024d" lastModified="1394033556"/>
+          <Include href=" movieClips/pictures/Scroller.xml" loadImmediate="false" itemID="52ea4280-0000023c" lastModified="1432662561"/>
+          <Include href=" movieClips/pictures/star_clip/star 1.xml" loadImmediate="false" itemID="52f8d281-000006bc" lastModified="1432663334"/>
+          <Include href=" movieClips/pictures/star_clip/star 2.xml" loadImmediate="false" itemID="52f8d281-000006b7" lastModified="1392038529"/>
+          <Include href=" movieClips/pictures/star_clip/star 3.xml" loadImmediate="false" itemID="52f8d281-000006ad" lastModified="1399542325"/>
+          <Include href=" movieClips/pictures/star_clip/star_image/1zv.xml" loadImmediate="false" itemID="52f8d2b6-000006c6" lastModified="1432663308"/>
+          <Include href=" movieClips/pictures/star_clip/star_image/2zv.xml" loadImmediate="false" itemID="52f8d2c2-000006d0" lastModified="1432663313"/>
+          <Include href=" movieClips/pictures/star_clip/star_image/3zv.xml" loadImmediate="false" itemID="52f8d2c9-000006d9" lastModified="1392133113"/>
+          <Include href=" movieClips/pictures/svech.xml" loadImmediate="false" itemID="52f8d46c-000006f2" lastModified="1392127410"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1">
+               <layers>
+                    <DOMLayer name="next target: 234 555" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="345735" publishTime="1401972648"/>
+          <PublishItem publishSize="345879" publishTime="1401440531"/>
+          <PublishItem publishSize="345880" publishTime="1401440437"/>
+          <PublishItem publishSize="345879" publishTime="1399548596"/>
+          <PublishItem publishSize="734396" publishTime="1399547291"/>
+          <PublishItem publishSize="734396" publishTime="1399547287"/>
+          <PublishItem publishSize="406787" publishTime="1399542976"/>
+          <PublishItem publishSize="406787" publishTime="1399542973"/>
+          <PublishItem publishSize="372562" publishTime="1399542699"/>
+          <PublishItem publishSize="345879" publishTime="1399542649"/>
+          <PublishItem publishSize="345879" publishTime="1399541664"/>
+          <PublishItem publishSize="345879" publishTime="1399541293"/>
+          <PublishItem publishSize="745663" publishTime="1399299887"/>
+          <PublishItem publishSize="755557" publishTime="1396977405"/>
+          <PublishItem publishSize="755557" publishTime="1396975944"/>
+          <PublishItem publishSize="755551" publishTime="1396882288"/>
+          <PublishItem publishSize="755550" publishTime="1396882164"/>
+          <PublishItem publishSize="752622" publishTime="1395754701"/>
+          <PublishItem publishSize="752626" publishTime="1395745033"/>
+          <PublishItem publishSize="752674" publishTime="1395222151"/>
+     </publishHistory>
+</DOMDocument>

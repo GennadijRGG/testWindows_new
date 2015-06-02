@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name=" movieClips/button/additiona_clips/gff" itemID="52f90f0a-000002b8" lastModified="1392127446" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="gff">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/tgrt" centerPoint3DX="31.15" centerPoint3DY="23.9">
+                  <matrix>
+                    <Matrix a="0.933670043945313" d="0.933670043945313" ty="0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.15" y="25.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName=" movieClips/button/additiona_clips/tgrt" centerPoint3DX="60.8" centerPoint3DY="23.25">
+                  <matrix>
+                    <Matrix a="-0.933670043945313" d="0.933670043945313" tx="91.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.15" y="25.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
